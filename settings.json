@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
+    "ip": "VirusLands.aternos.me:17467",
     "port": 27586,
     "version": "",
     "try-creative": false
